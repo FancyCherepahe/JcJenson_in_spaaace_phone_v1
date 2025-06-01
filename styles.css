@@ -80,6 +80,13 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center_margin_img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 .justify_div{
     display: flex;
